@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanguvk123&label=Profile%20views&color=0e75b6&style=flat" alt="sanguvk123" /> </p>
 
-- 🔭 I’m currently working in **SayF Invest Startup**
+- 🔭 I’m currently working in **PALO ALTO NETWORKS**
 
 - 🌱 I’m currently learning **A lot of Things...**
 
